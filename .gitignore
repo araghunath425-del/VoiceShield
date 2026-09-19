@@ -1,0 +1,42 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local audio recordings
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# Local datasets
+dataset/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Local generated files
+*.pkl
+*.csv
+
+# Temporary files
+*.tmp
+*.temp
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db*.ogg
+*.ogg 
